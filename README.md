@@ -7,7 +7,7 @@
 
 # Built with
 - [Python](https://www.python.org/) 3.12.1
-- [numpy](https://numpy.org) 1.26.4 https://numpy.org
+- [numpy](https://numpy.org) 1.26.4 
 - [pandas](https://pandas.pydata.org/) 2.2.1
 - [sci-kit learn](https://scikit-learn.org/stable/) 1.4.1
 - [Librosa](https://librosa.org/librosa/) 0.10.2.post1
