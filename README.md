@@ -5,18 +5,21 @@
 - [Olya Piskunova](https://github.com/celluwee)
 - Anastasiya Igolinskaya
 
-# Built with
-- [Python](https://www.python.org/) 3.12.1
-- [Numpy](https://numpy.org) 1.26.4 
-- [Pandas](https://pandas.pydata.org/) 2.2.1
-- [Sci-kit learn](https://scikit-learn.org/stable/) 1.4.1
-- [Librosa](https://librosa.org/librosa/) 0.10.2.post1
-- [Matplotlib](https://matplotlib.org/) 3.9.0
-- [TensorFlow](https://www.tensorflow.org/) 2.16.1
-
 # How to use
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/music-genre-classification.git
+cd music-genre-classification
+```
 
-# Description
-## Dataset
-## Models
-## Results
+2. Install all required packages
+```bash
+pip install -r [requirements.txt](requirements.txt)
+```
+
+[requirements.txt](requirements.txt)
+
+# Repository folder structure
+
+
+
