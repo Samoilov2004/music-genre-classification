@@ -1,5 +1,3 @@
-# music genre classification
-
 # Made by
 - [Mikhail Samoilov](https://github.com/Samoilov2004)
 - [Olya Piskunova](https://github.com/celluwee)
@@ -17,9 +15,9 @@ cd music-genre-classification
 pip install -r [requirements.txt](requirements.txt)
 ```
 
-[requirements.txt](requirements.txt)
-
 # Repository folder structure
+
+
 
 
 
