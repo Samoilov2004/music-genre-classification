@@ -16,7 +16,11 @@ pip install -r [requirements.txt](requirements.txt)
 ```
 
 # Repository folder structure
-
+- Data
+- Saved_models
+- Model_training
+- Statistics
+- INFO_FILES
 
 
 
